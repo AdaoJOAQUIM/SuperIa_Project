@@ -1,0 +1,3 @@
+# Compilers & Languages Module
+# Contains: LLVM, MLIR, Tree-sitter, ANTLR
+# See docs/ARCHITECTURE.md for full details
