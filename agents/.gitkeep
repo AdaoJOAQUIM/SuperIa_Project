@@ -1,0 +1,3 @@
+# Agents & Orchestration Module
+# Contains: AutoGPT, LangGraph, AutoGen, BabyAGI, PettingZoo
+# See docs/ARCHITECTURE.md for full details
