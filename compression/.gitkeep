@@ -1,0 +1,3 @@
+# Compression & MDL Module
+# Contains: Zstd, Autoencoders, FractalNet, FractalGAN, MDLearn
+# See docs/ARCHITECTURE.md for full details
